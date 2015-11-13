@@ -1,0 +1,23 @@
+name: Stephanie Kopf
+favicon: null
+layout_spectrum: 0.14980928227305412
+typography_spectrum: 0.07319476013071835
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5142413144931197
+  lightness: 0.39633307862095535
+  saturation: 0.018575493711978197
+  rhythmicContrast: 0.5329511587042361
+purpose: []
