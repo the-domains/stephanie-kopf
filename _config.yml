@@ -1,7 +1,7 @@
 name: Stephanie Kopf
 favicon: null
-layout_spectrum: 0.14980928227305412
-typography_spectrum: 0.07319476013071835
+layout_spectrum: 0.89297
+typography_spectrum: 0.78679
 cta:
   domain: null
   bucket: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.5142413144931197
-  lightness: 0.39633307862095535
-  saturation: 0.018575493711978197
-  rhythmicContrast: 0.5329511587042361
+  brandColors:
+    - '#f5dad2'
+    - '#cab2ae'
+    - '#7f7b71'
+    - '#1f1514'
+    - '#314150'
+  brandStrength: 0.3125
+  lightness: 0.4375
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
